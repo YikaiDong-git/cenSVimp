@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "cenSVimp: imputation of centromeric structural variants from pericentromeric SNPs"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Dong
+    given-names: Yikai
+    affiliation: "Department of Human Genetics, Emory University School of Medicine"
+repository-code: "https://github.com/YikaiDong-git/cenSVimp"
+preferred-citation:
+  type: article
+  title: "Common centromeric variation associates with molecular and complex traits in humans"
+  journal: "medRxiv"
+  year: 2026
+  doi: "10.64898/2026.10.09.26365154"
+  url: "https://doi.org/10.64898/2026.10.09.26365154"
+  notes: "medRxiv 2026.10.09.26365154"
+  authors:
+    - family-names: Dong
+      given-names: Yikai
+    - family-names: Cutler
+      given-names: David
+    - family-names: Weinstock
+      given-names: Joshua S.
